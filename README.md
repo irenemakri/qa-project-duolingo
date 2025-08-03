@@ -1,28 +1,26 @@
 # Duolingo QA Testing Project (Manual)
 
-This is a sample QA manual testing project created to demonstrate basic testing documentation and bug reporting.
+This project showcases a manual QA testing workflow applied to the Duolingo Web application. It is designed to demonstrate foundational QA skills through clear and structured documentation.
 
-## 🔍 What this project includes:
-- ✅ Test Plan
-- 🧪 Test Cases
-- 🐞 Sample Bug Report
-- 📄 All written in Markdown (.md) format
+## 🔍 Project Contents:
+- ✅ Detailed Test Plan outlining the scope and objectives
+- 🧪 Comprehensive Manual Test Cases covering key user flows
+- 🐞 Sample Bug Report illustrating issue identification and documentation
+- 📄 All documentation is created in Markdown (.md) format for easy readability and version control
 
-## 🔧 Tools Used
-- GitHub for version control and documentation
-- Manual Testing in Chrome browser
-- Basic Markdown formatting
+## 🔧 Tools & Environment
+- GitHub for version control and collaboration
+- Manual testing performed on the Chrome browser
+- Basic Markdown for documentation and reporting
 
-## 📝 Focus Areas
-- User Registration
-- Login
-- Language Selection
-- Lesson Completion
-- Profile Management
+## 📝 Key Testing Focus Areas
+- User Registration and Authentication
+- Language Selection and Lesson Progression
+- Profile Management and Settings
 
-## 📌 Purpose
-To simulate a real-world QA testing process and show familiarity with QA documentation standards.
+## 🎯 Purpose
+To simulate a real-world QA testing process, demonstrating proficiency in test planning, execution, bug reporting, and usability evaluation.
 
 ---
 
-🧠 Created as part of hands-on learning in QA and software testing.
+Created as part of hands-on learning and skill development in quality assurance and software testing.
